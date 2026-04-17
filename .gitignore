@@ -1,0 +1,10 @@
+.env
+cutter
+cutter*.exe
+cutter.zip
+cutter.tgz
+cutter_*.zip
+cutter_*.tgz
+# Added by goreleaser init:
+dist/
+test/
