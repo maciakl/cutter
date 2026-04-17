@@ -25,6 +25,8 @@ What makes `cutter` different from the POSIX `split` command?
 1. Save `cutter.exe` into a folder
 2. Drag and drop the file you want to split onto `cutter.exe`
 
+<img width="508" height="334" alt="cutter" src="https://github.com/user-attachments/assets/061c0865-499c-4642-b6be-0c37b04c813d" />
+
 The split chunks will be safely deposited in the folder from which you dragged over the file.
 
 ## CLI Usage
