@@ -45,6 +45,9 @@ If you want to use the terminal:
 1. Go to [Latest Release](https://github.com/maciakl/cutter/releases/latest)
 2. Under Assets, locate the file ending in `_Windows_x86_64.zip`
 3. Download it
+
+<img width="1581" height="1332" alt="cutter_dl" src="https://github.com/user-attachments/assets/3ce02e59-9521-44df-b1ff-e4cf7cdd245d" />
+
 4. Double click on the downloaded file
 5. Drag `cutter.exe` file to a desired folder (eg. Desktop)
 
