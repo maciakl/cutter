@@ -46,7 +46,8 @@ func Version() {
 }
 
 func Usage() {
-    fmt.Println("Usage:", filepath.Base(os.Args[0]), "[options]")
+    fmt.Println("Usage:", filepath.Base(os.Args[0]), "[options] <file>")
+    fmt.Println("  <file>           The path to the text file to be cut")
     fmt.Println("Options:")
     fmt.Println("  -v, --version    Print version information and exit")
     fmt.Println("  -h, --help       Print this message and exit")
