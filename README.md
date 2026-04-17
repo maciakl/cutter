@@ -38,11 +38,28 @@ If you want to use the terminal:
           -v, --version    Print version information and exit
           -h, --help       Print this message and exit
 
+
+
+## How do I get it?
+
+1. Go to [Latest Release](https://github.com/maciakl/cutter/releases/latest)
+2. Under Assets, locate the file ending in `_Windows_x86_64.zip`
+3. Download it
+4. Double click on the downloaded file
+5. Drag `cutter.exe` file to a desired folder (eg. Desktop)
+
+<img width="2187" height="640" alt="cutter_inst" src="https://github.com/user-attachments/assets/3a3b3b00-69c9-42ae-97d1-d5934effb66a" />
+
+Now you can drag and drop files onto `cutter.exe` to split them.
+
+
 ## Installation
+
+To install `cutter` on your system you can use one of the following methods:
 
 ### Multi-Platform:
 
-You can install gndn using `go install`:
+You can install `cutter` using `go install`:
 
 ```bash
 go install github.com/maciakl/cutter@latest
