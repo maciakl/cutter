@@ -17,7 +17,10 @@ What makes `cutter` different from the POSIX `split` command?
 
 - It automatically defaults to Excel friendly defaults
 - No need to futz around with command line arguments
-- File chunks are automatically renamed to the original file name, followed by `_part1`, `_part2`, instead of `xaa`, `xbb` and etc..
+- File chunks are automatically renamed to the original file name, followed by `_part1`, `_part2`, instead of `xaa`, `xbb`
+- File chunks retain the original `.csv` extension so they can be opened by double-clicking them
+- The file chunks retain the header row with the column names
+- Windows native executable (no need for buxybox or ports)
 - Drag and drop works in windows
 
 ## How to use it?
