@@ -71,12 +71,22 @@ You can install `cutter` using `go install`:
 go install github.com/maciakl/cutter@latest
 ```
 
-### macOS and Linux:
+### Linux:
 
 Use [grab](https://github.com/maciakl/grab):
 
 ```bash
 grab maciakl/cutter
+```
+
+### macOS
+
+Use `homebrew`:
+
+```bash
+brew tap maciakl/tap
+brew trust maciakl/tap
+brew install cutter
 ```
 
 ### Windows:
